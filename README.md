@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mojoffrion
+- 👀 I’m interested in learning the basics of front end development.
+- 🌱 I’m currently learning html, css, eventually javascript.
